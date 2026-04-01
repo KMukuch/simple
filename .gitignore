@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# rest
+.DS_Store
