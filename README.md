@@ -36,16 +36,19 @@ This project uses `Z80` as the CPU. This processor is widely available and cheap
 
 Memory layout:
 
-| Address  |         |
-| -------- | ------- |
-| `FFFF`   |         |
-| ...      |         |
-| `0000`   |         |
+- `FFFF` - undefined 
 
-- `FFFF` - 
+- `2000` - undefined
 
-- `0000` - 
+- `1FFF` - ROM
+
+- `...`
+
+- `0000` - ROM
 
 # Firmware
 
-The monitor program lets user to interact with the computer.
+There is no OS and no GUI. The computer has only text output. This makes coding much easier.
+
+The monitor program is written in Z80 assembly. This project uses `z80asm` as assembler.
+
