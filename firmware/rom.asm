@@ -17,7 +17,7 @@ RESET:
 ;--------------------------------
 PUTCHAR:
     ; send arg to output
-    OUT 01h, A
+    OUT (01h), A
 
 ;--------------------------------
 ; HALT_LOOP
