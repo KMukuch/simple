@@ -2,6 +2,10 @@
 
 I’ve been obsessed with the idea of building my own 8 bit computer for a long time now. I find old computers very interesting. The processors used in such systems have relatively simple architecture and are easy to handle at home.
 
+# Status
+
+Work in progress
+
 # Disclaimer
 
 This project is educational but can be useful for all the others who want to build a homebrew 8 bit computer.
@@ -50,5 +54,4 @@ Memory layout:
 
 There is no OS and no GUI. The computer has only text output. This makes coding much easier.
 
-The monitor program is written in Z80 assembly. This project uses `z80asm` as assembler.
-
+The monitor program is written in Z80 assembly. This project uses `z80asm`.
