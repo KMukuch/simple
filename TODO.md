@@ -1,4 +1,4 @@
 # TODO
 
-- main design: cpu, memory unit, IO unit
+- main design: CPU, MMU, IOU
 
