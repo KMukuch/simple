@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "152511b9-59af-4606-8e64-74d9f5d711c8")
+	(paper "A1")
+	(lib_symbols)
+	(sheet
+		(at 332.74 393.7)
+		(size 165.1 96.52)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "03fe9fbf-d606-454e-9325-fe236fa1a091")
+		(property "Sheetname" "power-supply"
+			(at 332.74 392.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power-supply.kicad_sch"
+			(at 332.74 490.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "board"
+				(path "/152511b9-59af-4606-8e64-74d9f5d711c8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 328.93 54.61)
+		(size 172.72 119.38)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f886350-0fdb-46ca-b359-5736e954e0d2")
+		(property "Sheetname" "mmu"
+			(at 328.93 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mmu.kicad_sch"
+			(at 328.93 174.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "board"
+				(path "/152511b9-59af-4606-8e64-74d9f5d711c8"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 212.09)
+		(size 198.12 134.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0fc42953-d0b6-4a57-874d-dbe0dd53ff5e")
+		(property "Sheetname" "iu"
+			(at 62.23 211.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input-unit.kicad_sch"
+			(at 62.23 347.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "board"
+				(path "/152511b9-59af-4606-8e64-74d9f5d711c8"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 565.15 213.36)
+		(size 200.66 132.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "41539a1b-0e7e-4b5c-81c0-1ab712208003")
+		(property "Sheetname" "ou"
+			(at 565.15 212.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "video-card.kicad_sch"
+			(at 565.15 346.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "board"
+				(path "/152511b9-59af-4606-8e64-74d9f5d711c8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 332.74 213.36)
+		(size 165.1 132.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa85dde2-b3eb-4e8f-b166-a9fc29e71d1d")
+		(property "Sheetname" "cpu"
+			(at 332.74 212.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cpu.kicad_sch"
+			(at 332.74 346.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "board"
+				(path "/152511b9-59af-4606-8e64-74d9f5d711c8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

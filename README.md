@@ -54,4 +54,7 @@ Memory layout:
 
 There is no OS and no GUI. The computer has only text output. This makes coding much easier.
 
-The monitor program is written in Z80 assembly. This project uses `z80asm`.
+The monitor program is written in Z80 assembly. This project uses `z80asm` to compile the code.
+
+# References
+
