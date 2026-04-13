@@ -408,6 +408,10 @@
     [
       "af83766a-be69-4732-9f60-7dd13423be9a",
       "vga-output"
+    ],
+    [
+      "42192967-49ae-4963-99ac-ebd7d730c5f5",
+      "eeprom-programmer"
     ]
   ],
   "text_variables": {}
